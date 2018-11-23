@@ -1,3 +1,3 @@
 # FirstRepository
 Test for git.
-It's a Demo to test git.exe in androidstaudio
+It's a demo to test git.exe in androidstudio.
